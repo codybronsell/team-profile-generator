@@ -1,4 +1,4 @@
-# Professional README Generator 
+# Professional Team Profile Generator 
 
 ##dicription
 a terminal program that genarates a readme file threw user inputs.
