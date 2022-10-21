@@ -1,7 +1,7 @@
 # Professional Team Profile Generator 
 
-##dicription
-a terminal program that genarates a readme file threw user inputs.
+## description 
+a terminal program that genarates a profile card for your employees containing their needed information.
 
 ##img
-![F5C00C01-D7FC-4CF2-9C45-B9D769646081_1_105_c](https://user-images.githubusercontent.com/110582217/195493289-d88c7fea-9466-48ae-a0e5-42d9505c8b45.jpeg)
+<img width="894" alt="Screen Shot 2022-10-20 at 11 26 45 PM" src="https://user-images.githubusercontent.com/110582217/197111862-42772f33-af29-4861-9cf9-220bd300b06d.png">
